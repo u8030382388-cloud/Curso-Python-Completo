@@ -16,8 +16,7 @@ Este repositorio contiene muy buenos ejercicios y prácticas para empezar a prog
 - - Funciones
 - - Parámetros y argumentos
 - - Valor de retorno (return)
-- - Importación de módulos (import)
-- - Módulo random
+- - Importación de módulos
 - - Clases
 - - Objetos
 - - Constructor __init__
@@ -28,13 +27,18 @@ Este repositorio contiene muy buenos ejercicios y prácticas para empezar a prog
 - - Uso de varias clases en un programa
 - - Simulaciones sencillas
 
-## Objetivo: aprender los fundamentos de Python mediante ejercicios y ejemplos prácticos, mejorando poco a poco estas habilidades de programación.
+## Objetivo:
+- aprender los fundamentos de Python mediante ejercicios y ejemplos prácticos, mejorando poco a poco estas habilidades de programación.
 
-## Tecnologías utilizadas: - Python 3 
+## Tecnologías utilizadas: 
+- Python 3 
 
-## Estado del proyecto: En desarrollo. Seguiré añadiendo nuevos ejercicios y proyectos a medida que avance/profundice en mi aprendizaje. 
+## Estado del proyecto:
+- En desarrollo. Seguiré añadiendo nuevos ejercicios y proyectos a medida que avance/profundice en mi aprendizaje. 
 
-## Autor: Gabriel Moya García-Chicote 
+## Autor:
+- Gabriel Moya García-Chicote 
 
-## Licencia: Este proyecto se comparte con fines educativos y de aprendizaje.# Curso-Python-Completo
-# Curso-Python-Completo
+## Licencia:
+- Este proyecto se comparte con fines educativos y de aprendizaje.
+
