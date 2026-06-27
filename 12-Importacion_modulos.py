@@ -4,7 +4,7 @@ import datetime  # Importar módulo datetime para fechas y horas
 import random  # Importar módulo random para generar valores aleatorios
 from random import randint  # Importar randint para números enteros aleatorios
 from math import sqrt  # Importar sqrt para calcular la raíz cuadrada
-
+from datetime import date # Importar date para trabajar con fechas
 
 def main():
     print("math.pi:", math.pi)
@@ -12,7 +12,7 @@ def main():
     print("datetime:", datetime.datetime.now())
     print("random.random():", random.random())
     print("randint(1, 10):", randint(1, 10))
-
+    print("date:", date.today())
 
 if __name__ == "__main__":
     main()
